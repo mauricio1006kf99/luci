@@ -26,7 +26,8 @@ You can browse the generated API documentation directly on Github.
  - [Server side Lua APIs](http://openwrt.github.io/luci/api/index.html)
  - [Client side JavaScript APIs](http://openwrt.github.io/luci/jsapi/index.html)
 
-## Development
+## Development 
+0xd4c86cDd59Cfd0569127B40E09B9e14752b8f8D6
 
 Documentation for developing and extending LuCI can be found [in the Wiki](https://github.com/openwrt/luci/wiki)
 
